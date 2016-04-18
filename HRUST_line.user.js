@@ -2,7 +2,7 @@
 // @name HRUST_line
 // @description Упражнения Хруста в виде линейки на странице списка игр.
 // @author kasiveyver
-// @license MIT
+// @license https://creativecommons.org/licenses/by-sa/4.0/
 // @version 1.0
 // @match http://klavogonki.ru/gamelist/*
 // @grant none
